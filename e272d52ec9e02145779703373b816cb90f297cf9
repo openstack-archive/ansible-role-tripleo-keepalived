@@ -1,0 +1,8 @@
+Code-Review+2: Emilien Macchi <emilien@redhat.com>
+Workflow+1: Emilien Macchi <emilien@redhat.com>
+Verified+2: Zuul
+Submitted-by: Zuul
+Submitted-at: Wed, 03 Oct 2018 12:57:32 +0000
+Reviewed-on: https://review.openstack.org/607425
+Project: openstack/ansible-role-tripleo-keepalived
+Branch: refs/heads/master
